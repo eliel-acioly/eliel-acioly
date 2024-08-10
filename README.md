@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o projeto com os métodos agéis, possibilitando ter o controle em  cada etapa do  desenvolvimmento até a entrega final.
+Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o projeto usando métodos agéis, possibilitando ter o controle em  cada etapa do  desenvolvimmento até a entrega final.
 
 
 ## 🛠 As tecnologias que domino!<br>
