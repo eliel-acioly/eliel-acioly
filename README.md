@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
 
-- ## 👋 Oi eu sou **Eliel Acioly** desenvolvedor e programador **fullstack!**
+- ## **Eliel Acioly** desenvolvedor e programador **fullstack!**
 
 ### As tecnologias que domino!<br>
  - <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">**HTML5**<br>
