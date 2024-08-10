@@ -1,15 +1,20 @@
 <div style="display: inline_block"><br>
 
 - # Eliel Acioly
-**Programador fullstack**<br><br>
+**Programador fullstack**<br>
 
 ## 🚀 Sobre mim
 
 Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o projeto com os métodos agéis, possibilitando ter o controle em  cada etapa do  desenvolvimmento até a entrega final.
-- ##
 
-### 🛠 As tecnologias que domino!<br>
-- ##Javascript, Css, Html, Java, Spring Boot, MySql, NodeJS, Métodos Ágeis, Git e Github.
+
+## 🛠 As tecnologias que domino!<br>
+- ### **Front-End**;<br>
+   ##### **Javascript, Css, Html, Java, Spring Boot**<br>
+- ### **Back-End**;<br>
+   ##### **NodeJS, MySql, Express, MongoDB**
+- ### **Outras Skills**;<br>
+   ##### **Git, Github, Métodos Ágeis**
 </div>
 
 ##
