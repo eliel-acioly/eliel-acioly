@@ -9,13 +9,7 @@ Construir diversos projetos com equipes e também projetos individuais, superei 
 - ##
 
 ### 🛠 As tecnologias que domino!<br>
- - <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">**HTML5**<br>
-  - <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">**CSS3**
-
- - <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **Javascript**<br>
- - <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">**Typescript**<br>
- - <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">**React**<br>
-   -  ##Javascript, Html, Css, Java, Spring Boot, MySql, NodeJS, Métodos Ágeis, Git e Github.
+- ##Javascript, Css, Html, Java, Spring Boot, MySql, NodeJS, Métodos Ágeis, Git e Github.
 </div>
 
 ##
