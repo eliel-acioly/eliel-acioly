@@ -1,4 +1,4 @@
-# 🚀*OI eu  sou **Eliel Acioly**  desenvolvedor FullStack moro no Brasil*
+## 🚀*OI eu  sou **Eliel Acioly**  desenvolvedor FullStack moro no Brasil*
 
 
 **About me**
@@ -23,7 +23,7 @@
 
 
 |  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)|
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| ------------- | ------------- |
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | |
 
 #### Top Repositories
 
@@ -35,6 +35,6 @@
  <a href="https://www.instagram.com/liel.acioly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:aciolyeliel90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/eliel-acioly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/eliel-acioly/" target="_blank"><img eight="30" width="40" src="https://cdn-icons-png.flaticon.com/512/21/21520.png"</a> <a>(82) 98137-5724</a>
+<a>(82) 98137-5724</a>
 
 
