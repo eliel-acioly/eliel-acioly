@@ -1,5 +1,4 @@
-## 🚀*OI eu  sou **Eliel Acioly**  desenvolvedor FullStack moro no Brasil*
-
+## 🚀*OI eu  sou **Eliel Acioly**  desenvolvedor FullStack* <img height="30" alt="bandeira" src="https://github.com/user-attachments/assets/c959ebc4-ce25-4ccb-825f-f881d4ea94fe">
 
 **About me**
 
