@@ -4,13 +4,12 @@
 
 - 💼 Estudante de Ciências da Computação [Faculdade Estacio], Qualificado em desenvolvimento de softwares -[IFRO- Instituto Federal de Rondonia]
 
-- 📈 Soft Skills:
+- 📈 Skills:
      - Metodos Ágeis, Comunicativo e adaptativo.
   
 -  🛠 Hard Skills:
 
-     - FrontEnd - <code><img height="30" alt="java" src="https://github.com/user-attachments/assets/276d4a93-fcc2-4549-9165-3604f01348fc"></code><code><img height="30" alt="reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="30" alt="html" src="https://github.com/user-attachments/assets/bddd0afd-1eef-4723-b729-89e04a9fceed"></code><code><img height="30" alt="css" src="https://github.com/user-attachments/assets/3b560c23-81cd-49d2-8588-eebedf7998e5"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/799bb9f0-2a40-4d45-ba07-64637093f3c9"></code><code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-     - BackEnd - <code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="30" alt="sql" src="https://github.com/user-attachments/assets/add1f045-20ed-4d72-8e8f-77a338084433"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/0323783e-e460-4dca-b21a-36ef53c751d4"></code>
+     - <code><img height="30" alt="java" src="https://github.com/user-attachments/assets/276d4a93-fcc2-4549-9165-3604f01348fc"></code><code><img height="30" alt="reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="30" alt="html" src="https://github.com/user-attachments/assets/bddd0afd-1eef-4723-b729-89e04a9fceed"></code><code><img height="30" alt="css" src="https://github.com/user-attachments/assets/3b560c23-81cd-49d2-8588-eebedf7998e5"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/799bb9f0-2a40-4d45-ba07-64637093f3c9"></code><code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="30" alt="sql" src="https://github.com/user-attachments/assets/add1f045-20ed-4d72-8e8f-77a338084433"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/0323783e-e460-4dca-b21a-36ef53c751d4"></code>
 
 
 - 💬 Fale comigo  [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5582981375724)
