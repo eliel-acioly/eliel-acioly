@@ -14,7 +14,7 @@
      - BackEnd - <code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>NodeJS, <code><img height="30" alt="sql" src="https://github.com/user-attachments/assets/add1f045-20ed-4d72-8e8f-77a338084433"></code>SQL, <code><img height="30" alt="java" src="https://github.com/user-attachments/assets/0323783e-e460-4dca-b21a-36ef53c751d4"></code>MySQL
 
 
-- 💬 Fale comigo [aqui](<a>https://wa.me/5582981375724</a>)
+- 💬 Fale comigo  [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5582981375724)
 
 - ##### *Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o software usando métodos agéis, possibilitando ter o controle em  cada etapa do desenvolvimento até a entrega final*.
 
