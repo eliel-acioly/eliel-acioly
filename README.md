@@ -4,7 +4,7 @@
 
 - 💼 Estudante de Ciências da Computação [Faculdade Estacio], Qualificado em desenvolvimento de softwares -[IFRO- Instituto Federal de Rondonia]
 
-- 📈 Skills:
+- 📈 Soft Skills:
      - Metodos Ágeis, Comunicativo e adaptativo.
   
 -  🛠 Hard Skills:
