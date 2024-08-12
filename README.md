@@ -17,12 +17,12 @@
 - ##### *Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o software usando métodos agéis, possibilitando ter o controle em  cada etapa do desenvolvimento até a entrega final*.
 
 
-|  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)|
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | |
+|  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliel-acioly &theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)|
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eliel-acioly &bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | |
 
 #### Top Repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliel-acioly&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliel-acioly/)
 
 <br />
 <br />
