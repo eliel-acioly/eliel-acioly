@@ -1,36 +1,98 @@
-## 🚀*OI eu  sou **Eliel Acioly**  desenvolvedor FullStack* <img height="30" alt="bandeira" src="https://github.com/user-attachments/assets/c959ebc4-ce25-4ccb-825f-f881d4ea94fe">
+# 👋 Olá, eu sou Eliel Acioly 🇧🇷
 
-**About me**
+### Desenvolvedor Backend & Arquiteto de Sistemas SaaS  
+Especializado em automação de ambientes, infraestrutura leve e aplicações multi-tenant.
 
-- 💼 Estudante de Ciências da Computação [Faculdade Estacio], Qualificado em desenvolvimento de softwares -[IFRO- Instituto Federal de Rondonia]
+---
 
-- 📈 Soft Skills:
-     - Metodos Ágeis, Comunicativo e adaptativo.
-  
--  🛠 Hard Skills:
+## 🧠 Sobre mim
 
-     - <code><img height="30" alt="java" src="https://github.com/user-attachments/assets/276d4a93-fcc2-4549-9165-3604f01348fc"></code><code><img height="30" alt="reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="30" alt="html" src="https://github.com/user-attachments/assets/bddd0afd-1eef-4723-b729-89e04a9fceed"></code><code><img height="30" alt="css" src="https://github.com/user-attachments/assets/3b560c23-81cd-49d2-8588-eebedf7998e5"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/799bb9f0-2a40-4d45-ba07-64637093f3c9"></code><code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="30" alt="sql" src="https://github.com/user-attachments/assets/add1f045-20ed-4d72-8e8f-77a338084433"></code><code><img height="30" alt="java" src="https://github.com/user-attachments/assets/0323783e-e460-4dca-b21a-36ef53c751d4"></code>
+Sou desenvolvedor de software com foco em **backend, arquitetura de sistemas e automação**.  
+Trabalho criando **soluções práticas, escaláveis e eficientes**, capazes de rodar desde servidores tradicionais até **ambientes móveis de desenvolvimento**, eliminando limitações de local, hardware ou contexto.
 
+Tenho experiência prática com:
+- Estruturação de **APIs REST e sistemas SaaS**
+- Ambientes Linux automatizados
+- Desenvolvimento focado em **produtividade, segurança e escalabilidade**
 
-- 💬 Fale comigo  [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5582981375724)
+📚 Formação e Qualificação:
+- Ciências da Computação (graduação em andamento – trancada por motivos financeiros)
+- Cursos técnicos e de qualificação pelo **IFRO**
+- Formação complementar pelo **Oracle Next Education**
+- Aprendizado contínuo baseado em **projetos reais e arquitetura aplicada**
 
-- ##### *Construir diversos projetos com equipes e também projetos individuais, superei desafios como analisar oque um cliente pede e começar a projetar e realizar o software usando métodos agéis, possibilitando ter o controle em  cada etapa do desenvolvimento até a entrega final*.
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-|  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliel-acioly&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)|
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eliel-acioly&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | |
+### Backend & Infraestrutura
+- Node.js • Express • APIs REST
+- Arquitetura SaaS • Multi-tenant
+- Linux • Bash • Automação de ambientes
+- Docker (em ambientes leves)
+- PostgreSQL • SQL
 
-#### Top Repositories
+### Frontend (quando necessário)
+- Next.js
+- HTML • CSS • JavaScript • TypeScript
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliel-acioly&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliel-acioly/)
+### Dev Environment
+- Neovim
+- Zsh • Starship
+- GNU Stow
+- Git • GitHub
+- Termux + Ubuntu (proot-distro)
 
-<br />
-<br />
+---
 
- <a href="https://www.instagram.com/liel.acioly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:aciolyeliel90@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/eliel-acioly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5582981375724)
+## 🧩 Projetos em Destaque
 
+### 🔹 PocketDev Environment
+> Ambiente profissional de desenvolvimento Linux no celular
 
+Infraestrutura automatizada que permite desenvolver **Next.js, APIs e projetos SaaS completos diretamente do smartphone**, sem depender de notebooks ou desktops.
 
+📌 Destaques:
+- Setup automatizado
+- Zsh + Starship + Neovim
+- Node.js LTS
+- Git + SSH
+- Foco total em produtividade móvel
+
+👉 Repositório:  
+https://github.com/eliel-acioly/pocketdev-env
+
+---
+
+### 🔹 Vendixtech / Projetos SaaS
+Desenvolvimento de aplicações voltadas a:
+- Controle de negócios
+- Autenticação segura
+- Arquitetura escalável
+- Backend bem estruturado
+
+---
+
+## 📈 Filosofia de Trabalho
+
+> **Tecnologia deve se adaptar à realidade, não o contrário.**
+
+Acredito em:
+- Automação inteligente
+- Código limpo e sustentável
+- Infraestrutura simples, porém robusta
+- Sistemas que funcionam **onde a necessidade existe**
+
+---
+
+## 📬 Vamos conversar?
+
+- 💼 LinkedIn: https://www.linkedin.com/in/elielacioly
+- 📷 Instagram: (opcional manter)
+- 💬 WhatsApp: disponível sob contato profissional
+
+Se você busca alguém que **resolve problemas reais**, pensa em **arquitetura antes de código** e entrega soluções funcionais, estou aberto a conexões e oportunidades.
+
+---
+
+⭐ Se algum projeto te ajudou, considere deixar uma estrela!
